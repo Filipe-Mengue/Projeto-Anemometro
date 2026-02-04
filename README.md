@@ -30,10 +30,13 @@ A estrutura foi projetada visando aerodinâmica e baixo atrito.
 
 
 ## 📸 Galeria
-![Foto do Anemômetro]
-<img width="978" height="714" alt="image" src="https://github.com/user-attachments/assets/151f768d-52fb-44ce-bed2-3c915920735e" />
+## Foto do Anemômetro
 
-![Esquema] 
+<img width="878" height="614" alt="image" src="https://github.com/user-attachments/assets/151f768d-52fb-44ce-bed2-3c915920735e" />
+
+
+## Esquema 
+
 <img width="517" height="268" alt="image" src="https://github.com/user-attachments/assets/6f1cfa05-286f-4653-b7d2-f0fb70c6aac8" />
 
 
